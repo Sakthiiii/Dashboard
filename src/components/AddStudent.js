@@ -31,7 +31,7 @@ function AddStudent(props) {
     }
     return (
         <div>
-            <h1>Add Student</h1>
+            <h1 style={{marginLeft:"450px"}}>Add Student</h1>
             <div>
                 <div className="form-group">
                     <label for="exampleInputPassword1">Name</label>
